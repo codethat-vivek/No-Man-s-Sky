@@ -6,6 +6,5 @@ Install Python from https://www.python.org/downloads/ and then install pygame fr
 Run the main.py file and please ensure that you have all the accesories (image, music, gunsound, bulletsound, collision sound, etc...).
 
 Objective - To prevent the invaders/aliens to reach the earth.
-You can shoot, move the gun, etc..
 
 Enjoy!
